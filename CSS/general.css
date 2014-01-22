@@ -1,0 +1,37 @@
+html {
+    font-family: Helvetica, Arial sans-serif;
+}
+
+body {
+    background-color: #000;
+    border-top: 2px solid #FFF; 
+    border-bottom: 2px solid #FFF;
+    border-right: 2px solid #FFF;
+    border-left: 2px solid #FFF;
+    color: #FFF;
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 3rem;
+}
+
+h1 + p {
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+}
+
+hr {
+    border: solid 2px #FFF;
+}
+
+h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 2rem;
+}
+
+h1 + p {
+    font-size: 2rem;
+    line-height: 1.75rem;
+    font-family: serif 
+}    
