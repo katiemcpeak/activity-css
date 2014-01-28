@@ -16,15 +16,6 @@ h1 {
     font-size: 3rem;
 }
 
-h1 + p {
-    font-size: 1.5rem;
-    line-height: 1.75rem;
-}
-
-hr {
-    border: solid 2px #FFF;
-}
-
 h2 {
     font-family: Georgia, "Times New Roman", serif;
     font-size: 2rem;
@@ -33,5 +24,9 @@ h2 {
 h1 + p {
     font-size: 2rem;
     line-height: 1.75rem;
-    font-family: serif 
+    font-family: Georgia, "Times New Roman", serif; 
 }    
+
+hr {
+    border: solid 2px #FFF;
+}
